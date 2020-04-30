@@ -1,6 +1,6 @@
 # Introduction
 
-主に競プロ関連の記事を書きます。
+自分用のwikiです。
 
 [twitter](https://twitter.com/hobo0xcc)
 [github](https://github.com/hobo0xcc)

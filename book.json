@@ -1,0 +1,25 @@
+{
+    "language": "ja",
+    "title": "Wiki",
+    "description": "wiki",
+    "plugins": [
+        "theme-api",
+        "prism",
+        "-highlight",
+        "copy-code-button",
+        "hide-published-with",
+        "anchors",
+        "navigator",
+        "-sharing"
+    ],
+    "pluginsConfig": {
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    }
+}

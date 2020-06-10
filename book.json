@@ -2,15 +2,16 @@
     "language": "ja",
     "title": "Wiki",
     "description": "wiki",
+    "root": "src",
     "plugins": [
-        "theme-api",
+        "-theme-api",
         "prism",
         "-highlight",
         "copy-code-button",
         "hide-published-with",
         "anchors",
-        "navigator",
-        "-sharing"
+        "-sharing",
+        "back-to-top-button"
     ],
     "pluginsConfig": {
         "prism": {
